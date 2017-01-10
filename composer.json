@@ -1,0 +1,31 @@
+{
+    "name": "daviszeng/sil",
+    "description": "Single Instance Lock based Redis",
+    "type": "library",
+    "require": {
+        "predis/predis": "^1.1"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^5.6",
+        "squizlabs/php_codesniffer": "^2.7",
+        "satooshi/php-coveralls": "^1.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Davis Zeng",
+            "email": "daviszeng@outlook.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "Sil\\": "src/Sil"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Sil\\Tests\\": "tests/Sil/Tests"
+        }
+    }
+}
