@@ -2,7 +2,7 @@
 /**
  * @filename BaseTestCase.php
  * @touch    10/01/2017 14:55
- * @author   Davis <daviszeng@outlook.com>
+ * @author   wudege <hi@wudege.me>
  * @version  1.0.0
  */
 
@@ -24,7 +24,7 @@ abstract class BaseTestCase extends \PHPUnit_Framework_TestCase
 
     /**
      *
-     * @author Davis <daviszeng@outlook.com>
+     * @author wudege <hi@wudege.me>
      */
     public function setUp()
     {
@@ -38,7 +38,7 @@ abstract class BaseTestCase extends \PHPUnit_Framework_TestCase
 
     /**
      *
-     * @author Davis <daviszeng@outlook.com>
+     * @author wudege <hi@wudege.me>
      */
     public function tearDown()
     {

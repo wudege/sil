@@ -2,7 +2,7 @@
 /**
  * @filename lock.php
  * @touch    10/01/2017 15:58
- * @author   Davis <daviszeng@outlook.com>
+ * @author   wudege <hi@wudege.me>
  * @version  1.0.0
  */
 

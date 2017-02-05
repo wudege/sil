@@ -2,7 +2,7 @@
 /**
  * @filename RedisSingleInstanceLock.php
  * @touch    10/01/2017 14:17
- * @author   Davis <daviszeng@outlook.com>
+ * @author   wudege <hi@wudege.me>
  * @version  1.0.0
  */
 
@@ -26,7 +26,7 @@ class RedisSingleInstanceLock implements LockInterface
 
     /**
      *
-     * @author Davis <daviszeng@outlook.com>
+     * @author wudege <hi@wudege.me>
      *
      * @param $lockName
      * @param $identifier
@@ -46,7 +46,7 @@ class RedisSingleInstanceLock implements LockInterface
 
     /**
      *
-     * @author Davis <daviszeng@outlook.com>
+     * @author wudege <hi@wudege.me>
      *
      * @param $lockName
      * @param $identifier

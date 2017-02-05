@@ -1,5 +1,5 @@
 {
-    "name": "daviszeng/sil",
+    "name": "wudege/sil",
     "description": "Single Instance Lock based Redis",
     "type": "library",
     "require": {
@@ -14,8 +14,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Davis Zeng",
-            "email": "daviszeng@outlook.com"
+            "name": "wudege",
+            "email": "hi@wudege.me"
         }
     ],
     "minimum-stability": "stable",

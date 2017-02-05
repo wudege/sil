@@ -2,18 +2,18 @@
 Single Instance Lock based Redis
 
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE)
-[![Build Status](https://travis-ci.org/DavisZeng/sil.svg?branch=master)](https://travis-ci.org/DavisZeng/sil)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/DavisZeng/sil/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/DavisZeng/sil/?branch=master)
-[![Coverage Status](https://coveralls.io/repos/github/DavisZeng/sil/badge.svg?branch=master)](https://coveralls.io/github/DavisZeng/sil?branch=master)
-[![Latest Stable Version](https://img.shields.io/packagist/v/DavisZeng/sil.svg)](https://packagist.org/packages/DavisZeng/sil)
-[![Total Downloads](https://img.shields.io/packagist/dt/DavisZeng/sil.svg)](https://packagist.org/packages/DavisZeng/sil)
-[![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&style=flat-square)](https://twitter.com/heydaviszeng)
+[![Build Status](https://travis-ci.org/wudege/sil.svg?branch=master)](https://travis-ci.org/wudege/sil)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/wudege/sil/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/wudege/sil/?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/wudege/sil/badge.svg?branch=master)](https://coveralls.io/github/wudege/sil?branch=master)
+[![Latest Stable Version](https://img.shields.io/packagist/v/wudege/sil.svg)](https://packagist.org/packages/wudege/sil)
+[![Total Downloads](https://img.shields.io/packagist/dt/wudege/sil.svg)](https://packagist.org/packages/wudege/sil)
+[![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&style=flat-square)](https://twitter.com/wudege)
 
 ## INSTALL
 
-* Use the composer command or the composer.json file. That's the recommend way. And the SDK is here [`DavisZeng/sil`][install-packagist]
+* Use the composer command or the composer.json file. That's the recommend way. And the SDK is here [`wudege/sil`][install-packagist]
 ```bash
-$ composer require DavisZeng/sil
+$ composer require wudege/sil
 ```
 
 ## USAGE
@@ -42,7 +42,7 @@ $ ./vendor/bin/phpunit tests/Sil/Tests
 
 ## LICENSE
 
-The MIT License (MIT). [License File](https://github.com/DavisZeng/sil/blob/master/LICENSE).
+The MIT License (MIT). [License File](https://github.com/wudege/sil/blob/master/LICENSE).
 
 [packagist]: http://packagist.org
-[install-packagist]: https://packagist.org/packages/DavisZeng/sil
+[install-packagist]: https://packagist.org/packages/wudege/sil

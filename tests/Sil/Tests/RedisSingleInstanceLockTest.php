@@ -3,7 +3,7 @@
 /**
  * @filename RedisSingleInstanceLockTest.php
  * @touch    10/01/2017 14:52
- * @author   Davis <daviszeng@outlook.com>
+ * @author   wudege <hi@wudege.me>
  * @version  1.0.0
  */
 
@@ -20,7 +20,7 @@ class RedisSingleInstanceLockTest extends BaseTestCase
 
     /**
      *
-     * @author Davis <daviszeng@outlook.com>
+     * @author wudege <hi@wudege.me>
      */
     public function setUp()
     {
@@ -30,7 +30,7 @@ class RedisSingleInstanceLockTest extends BaseTestCase
 
     /**
      *
-     * @author Davis <daviszeng@outlook.com>
+     * @author wudege <hi@wudege.me>
      */
     public function testAcquireLock()
     {
@@ -46,7 +46,7 @@ class RedisSingleInstanceLockTest extends BaseTestCase
 
     /**
      *
-     * @author  Davis <daviszeng@outlook.com>
+     * @author  wudege <hi@wudege.me>
      * @depends testAcquireLock
      */
     public function testReleaseLock()

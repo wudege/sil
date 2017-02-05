@@ -2,7 +2,7 @@
 /**
  * @filename LockInterface.php
  * @touch    10/01/2017 12:10
- * @author   Davis <daviszeng@outlook.com>
+ * @author   wudege <hi@wudege.me>
  * @version  1.0.0
  */
 
@@ -13,7 +13,7 @@ interface LockInterface
 {
     /**
      *
-     * @author Davis <daviszeng@outlook.com>
+     * @author wudege <hi@wudege.me>
      *
      * @param $lockName
      * @param $identifier
@@ -25,7 +25,7 @@ interface LockInterface
 
     /**
      *
-     * @author Davis <daviszeng@outlook.com>
+     * @author wudege <hi@wudege.me>
      *
      * @param $lockName
      * @param $identifier
